@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asumie-code&label=Profile%20views&color=0e75b6&style=flat" alt="asumie-code" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://asumie-code.github.io/portfolio/](https://asumie-code.github.io/portfolio/)
 
