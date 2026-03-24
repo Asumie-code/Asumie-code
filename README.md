@@ -102,6 +102,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
+   <img width="12" />
   <img src="https://vite.dev/assets/vite-light.t8GCa_VF.svg" height="60" alt="vite"  />
 </div>
 
